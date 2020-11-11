@@ -1,0 +1,10 @@
+{
+  "d_ff": 512,
+  "d_model": 128,
+  "dropout_rate": 0.1,
+  "layer_norm_epsilon": 1e-5,
+  "max_position_embeddings": 512,
+  "n_head": 4,
+  "n_layer": 2,
+  "vocab_size": "give by tokenizer"
+}
